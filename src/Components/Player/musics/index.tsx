@@ -5,7 +5,7 @@ export const musics: PlayerProps[] = [
   {
     id: 1,
     title: "Anthem of Victory",
-    src: "/files/anthem-of-victory-111206.mp3",
+    src: "/files/recording.mp3",
     artist: "DaddysMusic",
     thumbnail: "/files/anthem-of-victory-111206.webp",
   },

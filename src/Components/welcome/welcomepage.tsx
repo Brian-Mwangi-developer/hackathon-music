@@ -7,8 +7,8 @@ import { Link } from 'react-router-dom';
 
 const Welcomepage = () => {
     return(
-        <div>
-        <div className='h-screen bg-gradient-to-t from-indigo-300 overflow-hidden relative'>
+        <div className="h-screen bg-gradient-to-t from-indigo-300 overflow-hidden relative">
+        <div className=''>
         
         {/* intro content */}
         {/* image */}

@@ -1,24 +1,23 @@
 import { PlayerProps } from "../types";
-// Music Source https://pixabay.com/music/
 
 export const musics: PlayerProps[] = [
   {
     id: 1,
-    title: "Anthem of Victory",
+    title: "Beat 1",
     src: "/files/recording.mp3",
     artist: "DaddysMusic",
     thumbnail: "/files/anthem-of-victory-111206.webp",
   },
   {
     id: 2,
-    title: "Goldn",
+    title: "Beat 2",
     src: "/files/goldn-116392.mp3",
     artist: "prazkhanal",
     thumbnail: "/files/goldn-116392.webp",
   },
   {
     id: 3,
-    title: "Guitar Electro Sport Trailer",
+    title: "Beat 3",
     src: "/files/guitar-electro-sport-trailer-115571.mp3",
     artist: "Gvidon",
     thumbnail: "/files/guitar-electro-sport-trailer-115571.webp",

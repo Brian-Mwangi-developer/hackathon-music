@@ -11,15 +11,15 @@ export const musics: PlayerProps[] = [
   {
     id: 2,
     title: "Beat 2",
-    src: "/files/goldn-116392.mp3",
-    artist: "prazkhanal",
+    src: "/files/recording3.mp3",
+    artist: "john Doe",
     thumbnail: "/files/goldn-116392.webp",
   },
   {
     id: 3,
     title: "Beat 3",
     src: "/files/guitar-electro-sport-trailer-115571.mp3",
-    artist: "Gvidon",
+    artist: "Lorem ipsum",
     thumbnail: "/files/guitar-electro-sport-trailer-115571.webp",
   },
   {

@@ -52,7 +52,7 @@ export const PlayGround = () => {
               <Modal
                 isOpen={openModal}
                 onClose={handleCloseModal}
-                music_link={music.src}
+                music_link={`http://localhost:3000${music.src}`}
               />
             </div>
           );
